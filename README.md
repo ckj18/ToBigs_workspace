@@ -35,3 +35,25 @@
 
 ## Problem 5. ##
 <img width="611" alt="문제5" src="https://user-images.githubusercontent.com/48816329/221780672-8bbb1908-54e3-490b-b3cd-0de7f7e701ce.png">
+
+
+
+## Week7_Algorithm ##
+
+## Problem 1. ##
+<img width="441" alt="문제1" src="https://user-images.githubusercontent.com/48816329/223342735-1b949c7c-edb0-4d35-a875-2508b97bad3f.png">
+
+
+## Problem 2. ##
+<img width="449" alt="문제2" src="https://user-images.githubusercontent.com/48816329/223342752-6d183917-742b-4b48-b010-8345ea1c2405.png">
+
+
+## Problem 3. ##
+<img width="517" alt="문제3" src="https://user-images.githubusercontent.com/48816329/223342764-cb4ce7cb-a2cf-45c4-b5a3-062fd4d2991d.png">
+
+
+## Problem 4. ##
+<img width="431" alt="문제4" src="https://user-images.githubusercontent.com/48816329/223342780-1cac3a3f-97be-4d04-91e3-498328ac754d.png">
+
+
+
