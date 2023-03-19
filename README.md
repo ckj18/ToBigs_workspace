@@ -56,4 +56,22 @@
 <img width="431" alt="문제4" src="https://user-images.githubusercontent.com/48816329/223342780-1cac3a3f-97be-4d04-91e3-498328ac754d.png">
 
 
+## Week9_Algorithm ##
 
+## Problem 1. ##
+<img width="459" alt="문제 1" src="https://user-images.githubusercontent.com/48816329/226187265-640802f2-fc0d-499b-bf7f-cfeef22d4c02.png">
+
+
+
+## Problem 2. ##
+<img width="547" alt="문제 2" src="https://user-images.githubusercontent.com/48816329/226187275-9b61eeba-9b27-4936-8d3c-56452762f4a0.png">
+
+
+
+## Problem 3. ##
+<img width="367" alt="문제 3" src="https://user-images.githubusercontent.com/48816329/226187280-7e2c9aeb-4398-42bd-99ca-fef55a8541b0.png">
+
+
+
+## Problem 4. ##
+<img width="521" alt="문제 4" src="https://user-images.githubusercontent.com/48816329/226187284-68a49216-ed3c-4a12-b2a0-7d4f27a9cab8.png">
